@@ -120,5 +120,3 @@ dependencies:
   - py3dmol==0.6.1
   - tables==3.3.0
   - tamkin==1.0.9
-prefix: /user/home/gent/vsc417/vsc41771/miniconda3/envs/python2
-
