@@ -1,0 +1,5 @@
+jupyter
+mdtraj
+MDAnalysis
+simpletraj
+git+https://github.com/arose/nglview.git
