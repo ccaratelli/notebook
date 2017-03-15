@@ -1,6 +1,5 @@
 dependencies:
 - hdf5=1.8.17=9
-- mdtraj=1.8.0=np112py27_1
 - numexpr=2.6.2=np112py27_0
 - pytables=3.3.0=np112py27_0
 - alabaster=0.7.10=py27_0
@@ -120,3 +119,4 @@ dependencies:
   - py3dmol==0.6.1
   - tables==3.3.0
   - tamkin==1.0.9
+  - mdtraj=1.8.0=np112py27_1
